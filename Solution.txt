@@ -1,0 +1,8 @@
+Day 1 part 1 : distance = 1223326
+Day 1 part 2 : similarity = 21070419
+day 2 part 1 : safe records : 326
+day 2 part 2 : safe records : 381
+day 3 part 1 : sum = 174336360
+day 3 part 2 : sum with new rules = 88802350
+day 4 part 1 : number of xmax = 2562
+day 4 part 2 : number of X-mas = 1902
